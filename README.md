@@ -18,10 +18,16 @@ roleplay hindi health : https://huggingface.co/datasets/OdiaGenAI/health_hindi_2
 
 # LLM Fine-tuning (Theory and Hands-on)
 preq : w&b account, hugging face account(key)
+
 fine-tuning collab 
 
 LLM-factory : 
+
 axolotl : 
+
+x-LLM tuner : 
+
+Auto-train tuner : 
 
 # LLM Inference and Deployment (Theory and Hands-on)
 
@@ -31,10 +37,14 @@ vllm deploy colab :
 # RAG (Theory and Hands-on)
 
 RAG colab : 
+
 with hindi model colab : 
 
 # LLM Usecases and App Develpment (Handson) (Hindi Model)
 
 RAG Doc Q&A colab: 
+
 AI town : 
+
 autogen colab:
+
