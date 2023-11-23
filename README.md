@@ -32,6 +32,7 @@ Auto-train tuner :
 # LLM Inference and Deployment (Theory and Hands-on)
 
 inference script colab :
+
 vllm deploy colab : 
 
 # RAG (Theory and Hands-on)
